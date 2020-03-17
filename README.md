@@ -7,6 +7,7 @@ You can add, remove, search (or toggleFilter with buttons) and make important yo
 
 ## Setup
 Clone this repostory on your PC:
+
 ```git clone https://github.com/heyMakar/todoApp```
 
 ## Start
